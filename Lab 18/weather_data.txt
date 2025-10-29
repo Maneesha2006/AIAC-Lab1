@@ -1,0 +1,51 @@
+
+City: Hyderabad
+{
+    "coord": {
+        "lon": 78.4744,
+        "lat": 17.3753
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 22.23,
+        "feels_like": 22.96,
+        "temp_min": 22.23,
+        "temp_max": 22.73,
+        "pressure": 1004,
+        "humidity": 94,
+        "sea_level": 1004,
+        "grnd_level": 941
+    },
+    "visibility": 2000,
+    "wind": {
+        "speed": 5.14,
+        "deg": 270
+    },
+    "rain": {
+        "1h": 0.31
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1761728871,
+    "sys": {
+        "type": 1,
+        "id": 9214,
+        "country": "IN",
+        "sunrise": 1761698597,
+        "sunset": 1761740170
+    },
+    "timezone": 19800,
+    "id": 1269843,
+    "name": "Hyderabad",
+    "cod": 200
+}
+--------------------------------------------------
